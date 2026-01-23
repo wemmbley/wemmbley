@@ -22,5 +22,3 @@
     </td>
   </tr>
 </table>
-<h2>🎓 Мой Университет</h2>
-<p><a href="https://t.me/it_campus_university">Личный Университет по IT</a></p>
