@@ -1,26 +1,24 @@
 <h1 align="center">🌴 Laravel, Vue, Tailwind ❤️</h1>
-<p align="center">🪐Экосистема собственных фреймворков: cтроию Инфраструктуру на века!...✨</p>
+<h2 align="center">🪐Экосистема собственных фреймворков: cтроию Инфраструктуру на века!...✨</h2>
 
-<hr/>
-
-<table width="100%">
-  <tr width="100%">
+<table>
+  <tr>
     <td width="33%" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48"><br/>
       <h3>NEO</h3>
-      <p>Мой аналог Laravel.</p>
+      <p width="100%">Мой аналог Laravel.</p>
       <a href="https://github.com/wemmbley/neo">github.com/wemmbley/neo</a>
     </td>
     <td width="33%" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" width="48"><br/>
       <h3>WEX.JS</h3>
-      <p>Мой аналог Vue.</p>
+      <p width="100%">Мой аналог Vue.</p>
       <a href="https://github.com/wemmbley/wex-js">github.com/wemmbley/wex-js</a>
     </td>
     <td width="33%" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" width="48"><br/>
       <h3>WEX</h3>
-      <p>Мой аналог Tailwind.</p>
+      <p width="100%">Мой аналог Tailwind.</p>
       <a href="https://github.com/wemmbley/wex">github.com/wemmbley/wex</a>
     </td>
   </tr>
