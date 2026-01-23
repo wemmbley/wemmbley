@@ -1,4 +1,5 @@
 <h1 align="center">🌴 Laravel, Vue, Tailwind ❤️</h1>
+<br>
 <table width="100%">
   <tr>
     <td width="33%" align="center">
