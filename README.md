@@ -3,8 +3,8 @@
 ![Wemmbley's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wemmbley&theme=algolia)
 
 <div style="display: flex">
-<img src="https://e7.pngegg.com/pngimages/407/190/png-clipart-laravel-new-logo-tech-companies-thumbnail.png" width="64">
-<h2>Мой аналог Laravel</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="64">
+<p>Мой аналог Laravel</p>
 [https://github.com/wemmbley/neo](https://github.com/wemmbley/neo)
 </div>
 
