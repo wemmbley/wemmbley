@@ -3,8 +3,8 @@
 
 <hr/>
 
-<table>
-  <tr>
+<table width="100%">
+  <tr width="100%">
     <td width="33%" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="48"><br/>
       <h3>NEO</h3>
