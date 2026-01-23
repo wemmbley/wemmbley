@@ -1,5 +1,4 @@
 <h1 align="center">🌴 Laravel, Vue, Tailwind ❤️</h1>
-<h2 align="center">Экосистема собственных фреймворков</h2>
 <table width="100%">
   <tr>
     <td width="33%" align="center">
