@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://strapi.io/assets/images/logo.png" width="48"><br/>
+      <img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" width="48"><br/>
       <h3>Strapi</h3>
       <p>Знания: 30%</p>
       <pre>[██████--------------] 30%</pre>
