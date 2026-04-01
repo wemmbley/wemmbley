@@ -213,4 +213,28 @@ Libertarianism + Liberalism + Free Market + Antitrust
   <i>"Freedom isn't a privilege. It's an architectural decision."</i>
 </p>
 
+---
+
 [![Rustam profile views](https://u8views.com/api/v1/github/profiles/45443101/views/day-week-month-total-count.svg)](https://u8views.com/github/wemmbley)
+
+## 🏗️ React Infrastructure
+ 
+<div align="center">
+  <a href="https://github.com/wemmbley/react-infrastructure">
+    <img src="https://raw.githubusercontent.com/wemmbley/react-infrastructure/master/branding.png" width="100%" alt="React Infrastructure"/>
+  </a>
+</div>
+ 
+<br>
+ 
+<div align="center">
+ 
+[![React Infrastructure](https://img.shields.io/badge/react--infrastructure-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/wemmbley/react-infrastructure)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/wemmbley/react-infrastructure)
+[![MIT License](https://img.shields.io/badge/License-MIT-00FF88?style=for-the-badge)](https://github.com/wemmbley/react-infrastructure)
+ 
+</div>
+ 
+<br>
+ 
+While building my own reactive JS framework, I first arrived at a Vue-style template engine — then realized templates don't scale and moved toward class-based components with embedded HTML, essentially my own take on JSX. Once I discovered the full power of JSX in React, I knew exactly where I wanted to bring these ideas.
