@@ -1,25 +1,4 @@
-
-
-## 🚀 Технологии
-
 <div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ```
 ██╗    ██╗███████╗███╗   ███╗███╗   ███╗██████╗ ██╗     ███████╗██╗   ██╗
@@ -38,21 +17,21 @@
 
 ---
 
-## 🧬 О себе
+## 🧬 About Me
 
-Я — разработчик с более чем **10-летним стажем** в IT. Начинал с чистого PHP в **2011 году**, прошёл путь:
+I'm a developer with **10+ years** of hands-on IT experience. Started with raw PHP back in **2011** and worked my way through:
 
 ```
 PHP → WordPress → Laravel → Vue.js → React.js
 ```
 
-На каждом этапе не просто изучал инструмент — **строил свои решения с нуля**, понимал, как всё работает под капотом. Сейчас я прекрасно понимаю внутреннее устройство Laravel, Vue и React — потому что написал аналоги каждого из них.
+At every step I didn't just *learn* the tool — I **built my own versions from scratch** to understand what's really going on under the hood. Today I have a deep, first-principles understanding of Laravel, Vue and React — because I've written their equivalents myself.
 
-> *"Лучший способ понять инструмент — создать его самому."*
+> *"The best way to truly understand a tool is to build one yourself."*
 
 ---
 
-## 🛠️ Мои фреймворки
+## 🛠️ My Frameworks
 
 <table width="100%">
   <tr>
@@ -63,7 +42,7 @@ PHP → WordPress → Laravel → Vue.js → React.js
           <img src="https://img.shields.io/badge/PHP_Framework-neo-8B5CF6?style=for-the-badge&logo=php&logoColor=white"/>
         </a>
       </p>
-      <p>PHP-фреймворк, вдохновлённый Laravel. Включает роутинг, QueryBuilder, миграции, сидеры, Blade-подобный шаблонизатор, artisan-подобную консоль и CSRF-защиту — без единой сторонней зависимости.</p>
+      <p>A PHP framework inspired by Laravel. Features routing, QueryBuilder, migrations, seeders, a Blade-like template engine, an Artisan-like CLI, and CSRF protection — zero third-party dependencies.</p>
       <p align="center">
         <img src="https://img.shields.io/github/stars/wemmbley/neo?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/badge/lang-PHP-777BB4?style=flat-square&logo=php"/>
@@ -76,7 +55,7 @@ PHP → WordPress → Laravel → Vue.js → React.js
           <img src="https://img.shields.io/badge/JS_Framework-wex-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
         </a>
       </p>
-      <p>JavaScript-фреймворк, вдохновлённый Vue.js. Реактивность, компонентная модель, директивы — собственная реализация, написанная руками, без зависимостей.</p>
+      <p>A JavaScript framework inspired by Vue.js. Reactivity, component model, directives — a hand-rolled implementation with no dependencies whatsoever.</p>
       <p align="center">
         <img src="https://img.shields.io/github/stars/wemmbley/wex?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -89,7 +68,7 @@ PHP → WordPress → Laravel → Vue.js → React.js
           <img src="https://img.shields.io/badge/CSS_Framework-wex--css-38BDF8?style=for-the-badge&logo=css3&logoColor=white"/>
         </a>
       </p>
-      <p>CSS-фреймворк, вдохновлённый Bootstrap и Tailwind. Утилитарный подход, компонентная система, без оверхеда — только то, что нужно.</p>
+      <p>A CSS framework inspired by Bootstrap and Tailwind. Utility-first, component-driven, no bloat — just what you actually need.</p>
       <p align="center">
         <img src="https://img.shields.io/github/stars/wemmbley/wex-css?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/badge/lang-CSS-1572B6?style=flat-square&logo=css3"/>
@@ -100,65 +79,65 @@ PHP → WordPress → Laravel → Vue.js → React.js
 
 ---
 
-## 📖 Философия разработки
+## 📖 Development Philosophy
 
 <details>
-<summary><b>Нажми, чтобы раскрыть</b></summary>
+<summary><b>Click to expand</b></summary>
 
 <br>
 
-### От проекта — к фреймворку
+### From project to framework
 
-> Сперва создать проект. От него взять переиспользуемые инструменты и сделать их универсальными. Затем из инструментов собрать библиотеку — и в скором времени переварить их во фреймворк.
+> Build a real project first. Extract the reusable parts, make them generic. Assemble those parts into a library — then distill the library into a framework.
 
-Только так реально понять все настоящие проблемы, потенциальные уязвимости и реальные задачи современных библиотек. Именно этим путём я и пошёл. Теперь я прекрасно понимаю, как работают Laravel, React и Vue **под капотом**.
+That's the only way to truly encounter the real-world problems, the edge cases, the potential exploits, and the genuine constraints that every modern library and framework is designed to solve. That's the path I walked. As a result, I understand how Laravel, React and Vue work **from the inside out**.
 
-### Инструмент не должен диктовать
+### A tool should never dictate your architecture
 
-> Инструмент не должен диктовать инфраструктуру. У разработчика должны быть развязаны руки.
+> The tool serves the developer — not the other way around.
 
-На прикладном уровне должна быть **полная свобода в разумных пределах**. Фреймворк — это слуга, а не господин.
+At the application level there should be **full freedom within reasonable limits**. A framework is a servant, not a master. It should free your hands, not tie them.
 
-### Символическое присвоение
+### The act of symbolic ownership
 
-> Написав свой инструмент, похожий на уже существующий, ты буквально присваиваешь существующий инструмент.
+> When you write your own version of an existing tool, you don't just learn it — you *claim* it.
 
-Это **символический акт**, очень важный для психики разработчика. В будущем любой проект на таком инструменте будет прозрачен и мотивирован — ты знаешь каждый болт, каждый слой абстракции.
+This is a **symbolic act** that matters deeply for a developer's mindset. Every future project built on a tool you truly understand stays transparent and motivating — you know every bolt, every layer of abstraction. There are no black boxes left.
 
 </details>
 
 ---
 
-## 🌐 Политология
+## 🌐 Politics & Society
 
 <details>
-<summary><b>Взгляды и позиции</b></summary>
+<summary><b>Views & positions</b></summary>
 
 <br>
 
-Придерживаюсь **либертарианства** и **анархизма** как идейных позиций. Идеологически — **либерализм** и **демократия**: свободный рынок с антимонопольными законами и независимыми регуляторами.
+I lean toward **libertarianism** and **anarchism** as philosophical positions. Ideologically — **liberalism** and **democracy**: free markets kept honest by antitrust law and independent regulators.
 
-Скептически отношусь к **марксизму**. Нравится идея **федерализма либертарианских государств** по образцу США.
+Skeptical of **Marxism**. Fond of the idea of a **federation of libertarian states**, modelled loosely on the United States.
 
-Вижу будущее в **Проекте Венера** Жака Фреско — ресурсной экономике, основанной на науке, технологиях и кооперации, а не на принуждении.
+I see the long-term future in **The Venus Project** by Jacque Fresco — a resource-based economy grounded in science, technology and cooperation rather than coercion.
 
 ```
-Либертарианство + Либерализм + Свободный рынок + Антимонополия
-         ↓
-   Федерализм независимых государств
-         ↓
-   Проект Венера — технологическое общество будущего
+Libertarianism + Liberalism + Free Market + Antitrust
+              ↓
+    Federation of independent states
+              ↓
+  The Venus Project — a science-driven society
 ```
 
 </details>
 
 ---
 
-## 📊 Стек и навыки
+## 📊 Stack & Skills
 
 ### 🌐 Frontend
 
-| Технология | Уровень | Прогресс |
+| Technology | Level | Progress |
 |---|---|---|
 | HTML | Expert | `████████████████████` 100% |
 | CSS | Advanced | `██████████████████░░` 90% |
@@ -173,7 +152,7 @@ PHP → WordPress → Laravel → Vue.js → React.js
 
 ### ⚙️ Backend
 
-| Технология | Уровень | Прогресс |
+| Technology | Level | Progress |
 |---|---|---|
 | PHP | Expert | `████████████████████` 100% |
 | Laravel | Expert | `████████████████████` 100% |
@@ -182,17 +161,40 @@ PHP → WordPress → Laravel → Vue.js → React.js
 
 ---
 
-## ⏳ Путь в IT
+## 🚀 Technologies
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ⏳ My Journey
 
 ```
-2011 ──── PHP (чистый, без фреймворков)
-2013 ──── WordPress (темы, плагины, кастомизация)  
-2016 ──── Laravel (полноценная backend-разработка)
-2019 ──── Vue.js (SPA, реактивные интерфейсы)
-2021 ──── React.js (компонентный подход, хуки)
-2022 ──── NEO Framework (собственный PHP-фреймворк)
-2023 ──── WEX + WEX-CSS (собственный JS и CSS фреймворк)
-2024 ──── Полное понимание стека изнутри 🔥
+2011 ──── PHP (raw, no frameworks)
+2013 ──── WordPress (themes, plugins, custom solutions)
+2016 ──── Laravel (full-scale backend development)
+2019 ──── Vue.js (SPA, reactive interfaces)
+2021 ──── React.js (component model, hooks)
+2022 ──── NEO Framework (own PHP framework)
+2023 ──── WEX + WEX-CSS (own JS and CSS frameworks)
+2024 ──── Full stack understanding, inside out 🔥
 ```
 
 ---
@@ -207,7 +209,7 @@ PHP → WordPress → Laravel → Vue.js → React.js
 ---
 
 <p align="center">
-  <i>"Свобода — не привилегия. Это архитектурное решение."</i>
+  <i>"Freedom isn't a privilege. It's an architectural decision."</i>
 </p>
 
 [![Rustam profile views](https://u8views.com/api/v1/github/profiles/45443101/views/day-week-month-total-count.svg)](https://u8views.com/github/wemmbley)
