@@ -67,14 +67,14 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
       <a href="https://github.com/wemmbley/wex">
         <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
         <img src="https://img.shields.io/github/stars/wemmbley/wex?color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?logo=JS&logoColor=black&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?logo=JS&logoColor=black&style=for-the-badge&label=JS"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/wemmbley/jex">
         <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
         <img src="https://img.shields.io/github/stars/wemmbley/jex?color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-CSS3-F7DF1E?logo=css3&logoColor=black&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/lang-CSS-F7DF1E?logo=css&logoColor=black&style=for-the-badge"/>
       </a>
     </td>
   </tr>
