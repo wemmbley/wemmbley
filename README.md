@@ -1,11 +1,3 @@
----
-
-<img src="https://raw.githubusercontent.com/wemmbley/wemmbley/refs/heads/main/branding.png" alt="branding">
-
----
-
-## 🚀 Technologies
-
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -24,6 +16,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/wemmbley/wemmbley/refs/heads/main/branding.png" alt="branding">
+
 
 ## 🧬 About Me
 
