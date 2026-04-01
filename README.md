@@ -57,26 +57,26 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wemmbley/neo">
-        <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-        <img src="https://img.shields.io/github/stars/wemmbley/neo?color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-PHP-777BB4?logo=php&style=for-the-badge"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wemmbley/wex">
-        <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-        <img src="https://img.shields.io/github/stars/wemmbley/wex?color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?logo=JS&logoColor=black&style=for-the-badge&label=JS"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wemmbley/jex">
-        <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-        <img src="https://img.shields.io/github/stars/wemmbley/jex?color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-CSS-F7DF1E?logo=css&logoColor=black&style=for-the-badge"/>
-      </a>
-    </td>
+  <a href="https://github.com/wemmbley/neo">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/neo?color=FFD700&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/lang-PHP-777BB4?logo=php&style=for-the-badge"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/wemmbley/wex">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/wex?color=00B4D8&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/lang-JS-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/wemmbley/jex">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/jex?color=FFD700&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/lang-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  </a>
+</td>
   </tr>
 </table>
 
