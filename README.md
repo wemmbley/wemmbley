@@ -39,43 +39,43 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://github.com/wemmbley/wemmbley/blob/main/neo.png?raw=true">
-      <p align="center">
-        <a href="https://github.com/wemmbley/neo">
-          <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
-        </a>
-      </p>
-      <p align="center">
+    <td width="33%" align="center">
+      <a href="https://github.com/wemmbley/neo">
+        <img src="https://github.com/wemmbley/wemmbley/blob/main/neo.png?raw=true">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/wemmbley/wex">
+        <img src="https://github.com/wemmbley/wemmbley/blob/main/wex.png?raw=true">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/wemmbley/jex">
+        <img src="https://github.com/wemmbley/wemmbley/blob/main/jex.png?raw=true">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wemmbley/neo">
+        <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
         <img src="https://img.shields.io/github/stars/wemmbley/neo?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/badge/lang-PHP-777BB4?style=flat-square&logo=php"/>
-      </p>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌀 WEX</h3>
-      <p align="center">
-        <a href="https://github.com/wemmbley/wex">
-          <img src="https://img.shields.io/badge/JS_Framework-wex-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-        </a>
-      </p>
-      <p>A JavaScript framework inspired by Vue.js. Reactivity, component model, directives — a hand-rolled implementation with no dependencies whatsoever.</p>
-      <p align="center">
+    <td align="center">
+      <a href="https://github.com/wemmbley/wex">
+        <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
         <img src="https://img.shields.io/github/stars/wemmbley/wex?style=flat-square&color=FFD700"/>
         <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎨 WEX-CSS</h3>
-      <p align="center">
-        <a href="https://github.com/wemmbley/wex-css">
-          <img src="https://img.shields.io/badge/CSS_Framework-wex--css-38BDF8?style=for-the-badge&logo=css3&logoColor=white"/>
-        </a>
-      </p>
-      <p>A CSS framework inspired by Bootstrap and Tailwind. Utility-first, component-driven, no bloat — just what you actually need.</p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/wemmbley/wex-css?style=flat-square&color=FFD700"/>
-        <img src="https://img.shields.io/badge/lang-CSS-1572B6?style=flat-square&logo=css3"/>
-      </p>
+    <td align="center">
+      <a href="https://github.com/wemmbley/jex">
+        <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
+        <img src="https://img.shields.io/github/stars/wemmbley/jex?style=flat-square&color=FFD700"/>
+        <img src="https://img.shields.io/badge/lang-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </a>
     </td>
   </tr>
 </table>
