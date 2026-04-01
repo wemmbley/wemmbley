@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/wemmbley/wemmbley/refs/heads/main/branding.png" alt="branding">
+
+## Stack 
+
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -16,9 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/wemmbley/wemmbley/refs/heads/main/branding.png" alt="branding">
-
 
 ## 🧬 About Me
 
@@ -186,16 +187,6 @@ Libertarianism + Liberalism + Free Market + Antitrust
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wemmbley&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wemmbley&layout=compact&theme=radical" height="165"/>
 </p>
-
----
-
-<p align="center">
-  <i>"Freedom isn't a privilege. It's an architectural decision."</i>
-</p>
-
----
-
-[![Rustam profile views](https://u8views.com/api/v1/github/profiles/45443101/views/day-week-month-total-count.svg)](https://u8views.com/github/wemmbley)
 
 ## 🏗️ React Infrastructure
  
