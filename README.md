@@ -59,8 +59,8 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
     <td align="center">
       <a href="https://github.com/wemmbley/neo">
         <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-        <img src="https://img.shields.io/github/stars/wemmbley/neo?style=flat-square&color=FFD700&style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/lang-PHP-777BB4?style=flat-square&logo=php&style=for-the-badge"/>
+        <img src="https://img.shields.io/github/stars/wemmbley/neo?color=FFD700&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/lang-PHP-777BB4?logo=php&style=for-the-badge"/>
       </a>
     </td>
     <td align="center">
