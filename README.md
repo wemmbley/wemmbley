@@ -35,7 +35,7 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
 
 ---
 
-## 🛠️ My Frameworks
+## My Frameworks
 
 <table width="100%">
   <tr>
@@ -84,47 +84,47 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
 ---
 
 ## 📖 Development Philosophy
-
+ 
 <details>
 <summary><b>Click to expand</b></summary>
-
+ 
 <br>
-
+ 
 ### From project to framework
-
+ 
 > Build a real project first. Extract the reusable parts, make them generic. Assemble those parts into a library — then distill the library into a framework.
-
+ 
 That's the only way to truly encounter the real-world problems, the edge cases, the potential exploits, and the genuine constraints that every modern library and framework is designed to solve. That's the path I walked. As a result, I understand how Laravel, React and Vue work **from the inside out**.
-
+ 
 ### A tool should never dictate your architecture
-
+ 
 > The tool serves the developer — not the other way around.
-
+ 
 At the application level there should be **full freedom within reasonable limits**. A framework is a servant, not a master. It should free your hands, not tie them.
-
+ 
 ### The act of symbolic ownership
-
+ 
 > When you write your own version of an existing tool, you don't just learn it — you *claim* it.
-
+ 
 This is a **symbolic act** that matters deeply for a developer's mindset. Every future project built on a tool you truly understand stays transparent and motivating — you know every bolt, every layer of abstraction. There are no black boxes left.
-
+ 
 </details>
-
+ 
 ---
-
+ 
 ## 🌐 Politics & Society
-
+ 
 <details>
-<summary><b>Views & positions</b></summary>
-
+<summary><b>Click to expand</b></summary>
+ 
 <br>
-
+ 
 I lean toward **libertarianism** and **anarchism** as philosophical positions. Ideologically — **liberalism** and **democracy**: free markets kept honest by antitrust law and independent regulators.
-
+ 
 Skeptical of **Marxism**. Fond of the idea of a **federation of libertarian states**, modelled loosely on the United States.
-
+ 
 I see the long-term future in **The Venus Project** by Jacque Fresco — a resource-based economy grounded in science, technology and cooperation rather than coercion.
-
+ 
 ```
 Libertarianism + Liberalism + Free Market + Antitrust
               ↓
@@ -132,15 +132,20 @@ Libertarianism + Liberalism + Free Market + Antitrust
               ↓
   The Venus Project — a science-driven society
 ```
-
+ 
 </details>
-
+ 
 ---
-
+ 
 ## 📊 Stack & Skills
-
+ 
+<details>
+<summary><b>Click to expand</b></summary>
+ 
+<br>
+ 
 ### 🌐 Frontend
-
+ 
 | Technology | Level | Progress |
 |---|---|---|
 | HTML | Expert | `████████████████████` 100% |
@@ -153,16 +158,18 @@ Libertarianism + Liberalism + Free Market + Antitrust
 | React.js | Intermediate | `██████████████░░░░░░` 70% |
 | Svelte | — | `░░░░░░░░░░░░░░░░░░░░` 0% |
 | Angular | — | `░░░░░░░░░░░░░░░░░░░░` 0% |
-
+ 
 ### ⚙️ Backend
-
+ 
 | Technology | Level | Progress |
 |---|---|---|
 | PHP | Expert | `████████████████████` 100% |
 | Laravel | Expert | `████████████████████` 100% |
 | WordPress | Advanced | `██████████████░░░░░░` 70% |
 | Symfony | Beginner | `██░░░░░░░░░░░░░░░░░░` 10% |
-
+ 
+</details>
+ 
 ---
 
 
