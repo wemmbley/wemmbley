@@ -59,22 +59,22 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
 <td align="center">
   <a href="https://github.com/wemmbley/neo">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/wemmbley/neo?color=C71585&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/neo?color=2ECC71&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/lang-PHP-777BB4?logo=php&style=for-the-badge"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/wemmbley/wex">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/wemmbley/wex?color=C71585&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/wex?color=2ECC71&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/lang-JS-F7DF1E?logo=javascript&style=for-the-badge"/>
   </a>
 </td>
 <td align="center">
   <a href="https://github.com/wemmbley/jex">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/wemmbley/jex?color=C71585&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/lang-CSS-1572B6?logo=css&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/stars/wemmbley/jex?color=2ECC71&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/lang-CSS-EEF2FF?logo=css&logoColor=1572B6&style=for-the-badge"/>
   </a>
 </td>
   </tr>
