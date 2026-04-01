@@ -74,7 +74,7 @@ At every step I didn't just *learn* the tool — I **built my own versions from 
   <a href="https://github.com/wemmbley/jex">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github&style=for-the-badge"/>
     <img src="https://img.shields.io/github/stars/wemmbley/jex?color=2ECC71&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/lang-CSS-EEF2FF?logo=css&logoColor=1572B6&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/lang-CSS-EEF2FF?logo=css&logoColor=2ECC71&style=for-the-badge"/>
   </a>
 </td>
   </tr>
