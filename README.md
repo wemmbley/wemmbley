@@ -238,3 +238,16 @@ Libertarianism + Liberalism + Free Market + Antitrust
 <br>
  
 While building my own reactive JS framework, I first arrived at a Vue-style template engine — then realized templates don't scale and moved toward class-based components with embedded HTML, essentially my own take on JSX. Once I discovered the full power of JSX in React, I knew exactly where I wanted to bring these ideas.
+
+The result is a widely scalable architecture built on Clean Architecture (Robert C. Martin) and DDD principles, with a natural evolution path all the way to microfrontends baked in from day one. A "no-server" principle sits at its core — the frontend knows nothing about the server — which let me ditch Next/Nuxt entirely and implement routing and SSR in just a couple of files, cleanly and without ceremony.
+ 
+The structure will look familiar to any Laravel developer — and that's intentional. Backend-style thinking is exactly what modern frontend architecture is missing. React has long outgrown simple UI hooks and local state. It's time to grow up and scale. The frontend is ready.
+ 
+<br>
+ 
+<div align="center">
+ 
+### **[→ View Repository](https://github.com/wemmbley/react-infrastructure)**
+ 
+</div>
+ 
